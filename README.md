@@ -1,1 +1,3 @@
 # Reminder_LINEBot
+Google Apps Scriptにこれをコピペして使ってください。
+スプレッドシートのIDとLINEのアクセストークンを変えれば動くと思う！
